@@ -1,0 +1,43 @@
+/* Common styles */
+.container {
+     max-width: 400px;
+     margin: 0 auto;
+   }
+   
+   .form-group {
+     margin-bottom: 20px;
+   }
+   
+   .btn-primary {
+     width: 100%;
+   }
+
+   /* Chat interface specific styles */
+   #chatInterface {
+     background-color: #f9f9f9;
+     padding: 20px;
+     border-radius: 5px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   }
+
+   #chatMessages {
+     height: 300px; /* Adjust height as needed */
+     overflow-y: auto;
+   }
+   
+   /* Login form specific styles */
+   #loginForm {
+     background-color: #f9f9f9;
+     padding: 20px;
+     border-radius: 5px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   }
+   
+   /* Registration form specific styles */
+   #registerForm {
+     background-color: #f9f9f9;
+     padding: 20px;
+     border-radius: 5px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   }
+   
